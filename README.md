@@ -19,3 +19,7 @@
 * https://vk.com/talkcodetome
 
 * https://leontevblog.ru/
+
+* https://medium.com/@shukhrat.mukhammadiev
+
+* https://medium.com/@bogdan.homlet
