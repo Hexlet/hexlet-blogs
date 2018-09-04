@@ -1,5 +1,7 @@
 # hexlet-blogs
 
+* https://epsnv.github.io/
+
 * https://oika.livejournal.com/
 
 * https://mrblackbear.livejournal.com/
